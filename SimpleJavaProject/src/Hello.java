@@ -27,4 +27,8 @@ public class Hello {
 		System.out.println("This is method2!");
 	}
 	
+	public static void start() {
+		
+	}
+	
 }

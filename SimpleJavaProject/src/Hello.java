@@ -9,6 +9,15 @@ public class Hello {
 		
 		System.out.println("Okay");
 		
+		
+		method1();
+		
+	}
+	
+	
+	
+	public static void method1() {
+		System.out.println("This is method1!");
 	}
 
 }

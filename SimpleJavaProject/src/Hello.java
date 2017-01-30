@@ -9,10 +9,8 @@ public class Hello {
 		
 		System.out.println("Okay");
 		
-<<<<<<< HEAD
 		method2();
 		
-=======
 		
 		method1();
 		
@@ -22,7 +20,6 @@ public class Hello {
 	
 	public static void method1() {
 		System.out.println("This is method1!");
->>>>>>> refs/remotes/origin/feature_Method1
 	}
 
 	
